@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<span>I am <a href="http://dimasadisaputro.github.io/MyPortfolio/">@DimasAdiSaputro<a></span>
+
+<p align="">
+  
+  <a href="mailto:dimasadisaputr0699@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://www.instagram.com/dimas_saputra06/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+</p>
+
+### My Projects
+
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=DimasAdiSaputro&show_icons=true&theme=vue-dark)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasAdiSaputro&hide=batchfile&layout=compact&theme=vue-dark)
