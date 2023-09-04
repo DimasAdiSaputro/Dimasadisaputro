@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<span>I am <a href="http://dimasadisaputro.github.io/MyPortfolio/">@DimasAdiSaputro<a></span>
+<span>I am <a href="http://dimasadisaputro.github.io/MyPortfolio/">@DimasAdiSaputro<a> I am a network technician and tech enthusiast based in Indonesia.</span>
 
 <p align="">
   
