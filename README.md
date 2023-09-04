@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi There👋! <span>I am <a href="http://dimasadisaputro.github.io/">@DimasAdiSaputro<a> I am a network engineer and tech enthusiast front-end developers based in Indonesia.</span>
 
-<span>I am <a>
+<span><a>
 Hello! My name is Dimas Adi Saputro, I am a Integrated Operation Access Network. is a profession whose job is to do and repair things related to internet provider networks, both wired, fiber optic, computer, and wireless in an organization. Fiber optic, computer, or wireless in an organization.
    <p>I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. My expertise lies in HTML, CSS and JavaScript where I have honed my skills to craft visually appealing and responsive web pages. I strive to create seamless user experiences by leveraging the power of these core technologies.
 <a></span>
