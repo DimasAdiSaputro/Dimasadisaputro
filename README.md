@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! <span>I am <a href="http://dimasadisaputro.github.io/MyPortfolio/">@DimasAdiSaputro<a> I am a network technician and tech enthusiast based in Indonesia.</span>👋
 
 <!--
 **DimasAdiSaputro/Dimasadisaputro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<span>I am <a href="http://dimasadisaputro.github.io/MyPortfolio/">@DimasAdiSaputro<a> I am a network technician and tech enthusiast based in Indonesia.</span>
 
 <p align="">
   
