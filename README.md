@@ -1,4 +1,3 @@
-### Hello! <span>I am <a href="http://dimasadisaputro.github.io/MyPortfolio/">@DimasAdiSaputro<a> I am a network technician and tech enthusiast based in Indonesia.</span>👋
 
 <!--
 **DimasAdiSaputro/Dimasadisaputro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi There👋! <span>I am <a href="http://dimasadisaputro.github.io/">@DimasAdiSaputro<a> I am a network engineer and tech enthusiast based in Indonesia.</span>👋
+
+<span>I am <a>
+Hello! My name is Dimas Adi Saputro, I am a network technician. is a profession whose job is to do and repair things related to internet provider networks, both wired, fiber optic, computer, and wireless in an organization. Fiber optic, computer, or wireless in an organization.
+    Currently I am also an active student at Bina Sarana Informatika University following the development of both web technology such as "Front end (HTML | CSS | JavaScript)" and for "Back end (JavaScript | Python | PHP Framework CodeIgniter 3)", as well as "Cisco | MikroTik" technology. And I am currently looking for job opportunities in these fields to continue developing my skills.
+<a></span>
 
 <p align="">
   
